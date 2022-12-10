@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    width: 100vw;
+}
+
+/*
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100vw;
+}
+
+.container div{
+    background-color: brown;
+    color: white;
+    padding: 400px;
+}
+
+*/
+
+
+/*
+.container {
+    margin-top: 10%;
+}
+*/

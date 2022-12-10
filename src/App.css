@@ -1,0 +1,8 @@
+.App {
+   text-align: center;
+}
+
+p.danger {
+   color: red;
+   font-size: 12px;
+}

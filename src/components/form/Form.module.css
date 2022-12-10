@@ -1,0 +1,46 @@
+.containerlogin {
+    margin-top: 50px;
+    padding: 10px 10px ;
+    margin: 15px 15px 15px 15px;
+    border: 1px solid #f1f1f1;
+    background-color: #f1f1f1;
+}
+
+.titulo {
+    color: gr;
+}
+
+.label {
+    color: grey;
+    font-weight: bold;
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 5px;
+  margin: 0px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.btnlogin {
+  background-color: #f44336;
+  color: white;
+  padding: 10px 10px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.btnlogin:hover {
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 300px) {
+  .cancelbtn {
+     width: 100%;
+  }
+} 
+

@@ -1,0 +1,15 @@
+h1 {
+    color: orange;
+}
+
+h5 {
+    color: #fff;
+}
+
+
+.btnregresar {
+    padding: 5px;
+    background-color: aquamarine;
+    color: black;
+    font-weight: bold;
+}
